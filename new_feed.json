@@ -1,0 +1,12 @@
+{
+	"success": {
+		"author": "ItzFrostTheWolf",
+  	"subtitle": "The test has succeeded",
+  	"contents": "<font color='#FJ99FJ'>test has succeeded. <br /> lol</font>"
+	},
+	"Ukraine": {
+		"author": "ItzFrostTheWolf",
+  	"subtitle": "Current news in the world.",
+  	"contents": "<u>All of my support goes to Ukraine!</u>"
+	},
+}
